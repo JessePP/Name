@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Bez tytułu — Notatnik",
+  "Type": "Screen",
+  "Id": "v98BEgLBZk2bnhOAMlthJQ",
+  "Reference": "eB1R6gCTMUe0CPmb9Vu1wQ/v98BEgLBZk2bnhOAMlthJQ",
+  "ParentRef": "eB1R6gCTMUe0CPmb9Vu1wQ/khHl17HaakqnP9xvLQS5wg",
+  "Created": "2025-04-07T23:04:11.2180097Z",
+  "Updated": "2025-04-07T23:04:11.2180097Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

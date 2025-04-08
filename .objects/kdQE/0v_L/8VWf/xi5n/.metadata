@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Advanced Options",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "xi5nwzAy0UmUBd6n11E1ag",
+  "Reference": "eB1R6gCTMUe0CPmb9Vu1wQ/xi5nwzAy0UmUBd6n11E1ag",
+  "ParentRef": "eB1R6gCTMUe0CPmb9Vu1wQ/8VWfg9lH10WQczT4hcoxAQ",
+  "Created": "2025-04-07T13:15:35.874349Z",
+  "Updated": "2025-04-07T13:15:35.874349Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

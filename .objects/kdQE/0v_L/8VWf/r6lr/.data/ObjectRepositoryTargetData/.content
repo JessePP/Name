@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="YKeRi40O7UeYUN5V2gnE4w" Reference="eB1R6gCTMUe0CPmb9Vu1wQ/r6lr6HwABkyo87oPvJAc8Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="fakenamegenerator.com/advanced.php" CVScreenId="b796d20b-60a6-4d83-be6e-fac8bf38c959" CvTextArea="952, 349, 72, 14" CvType="Text" DesignTimeRectangle="952, 349, 72, 14" DesignTimeScaleFactor="1" FullSelectorArgument="[string.Format(&quot;&lt;webctrl id='c' tag='SELECT' /&gt;&lt;webctrl aaname='{0}' tag='OPTION' /&gt;&quot;, country)]" Guid="a83c2658-6ac7-4797-8bab-4346c28776c8" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Generate a Random Name - Fake Name Generator' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="76ce624706d79ff227c3ffef066c963c.png" xmlns="">0lFewhM27Iku_vYCsDbH5uw</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="country" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="yn79xNUmGkiECRPwnxiWiA" Reference="eB1R6gCTMUe0CPmb9Vu1wQ/jMX5q28rPkCGGfBcFiCMDg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="fakenamegenerator.com/advanced.php" CVScreenId="9c655936-b0b2-4ee5-930b-a58a75f1e571" DesignTimeRectangle="632, 264, 234, 18" DesignTimeScaleFactor="1" Guid="ae1df792-41b8-44b7-902e-c1e741e48b42" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Generate a Random Name - Fake Name Generator' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="0549a1e6-a411-4009-a556-8d42ea8c27e9" CvTextArea="632, 347, 41, 14" CvTextArgument="Arabic" CvType="Text" DesignTimeRectangle="632, 346, 234, 18" FuzzySelectorArgument="[string.Format(&quot;&lt;webctrl id='n' tag='SELECT' /&gt;&lt;webctrl aaname='{0}' tag='OPTION' type='' class='' check:innerText='{0}' /&gt;&quot;, name_Set)]" Guid="53048d83-0301-4eff-9c7b-f877dbbc847e" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1e3009b8fd21b1a174907ef87a44657c.png" xmlns="">0tPQTD-k5NkKDOPcmmxIgAg</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="Arabic" Name="name_Set" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

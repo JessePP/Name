@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Sarah Shah",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "g0HFjKy21Ea8u7tT-KcHuQ",
+  "Reference": "eB1R6gCTMUe0CPmb9Vu1wQ/g0HFjKy21Ea8u7tT-KcHuQ",
+  "ParentRef": "eB1R6gCTMUe0CPmb9Vu1wQ/8VWfg9lH10WQczT4hcoxAQ",
+  "Created": "2025-04-07T18:13:16.3473702Z",
+  "Updated": "2025-04-07T18:13:16.3473702Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

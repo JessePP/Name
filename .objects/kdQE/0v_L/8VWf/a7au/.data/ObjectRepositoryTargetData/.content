@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RQBrwoG9D0Gaw5KSGOeiqA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="fakenamegenerator.com/advanced.php" CVScreenId="df98c272-1ea7-4c1c-bb10-defe5d2098e3" CvTextArea="972, 542, 173, 17" CvTextArgument="LowellCHarding@rhyta.com" CvType="Text" DesignTimeRectangle="972, 542, 173, 17" DesignTimeScaleFactor="1" ElementType="Text" Guid="db5fa7db-5df1-42dd-aaf2-e1b318f443d0" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Generate a Random Name - Fake Name Generator' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="df98c272-1ea7-4c1c-bb10-defe5d2098e3" CvTextArea="788, 514, 63, 14" CvTextArgument="ONLINE" CvType="Text" DesignTimeRectangle="789, 513, 540, 17" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='hh3' type='' tag='H3' aaname='Online' check:innerText='ONLINE' /&gt;" Guid="187ecc77-2952-4a3c-a3d4-b4e33cf6cc45" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4ea64d8cb71034c0b9cd328b2cbd2c8a.png" xmlns="">0VLgRod_AjUugxg1brbn0Yg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

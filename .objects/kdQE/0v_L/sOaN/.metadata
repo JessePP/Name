@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Close Chrome",
+  "Type": "Screen",
+  "Id": "sOaNjIYMhE64bzQ-JQAL8w",
+  "Reference": "eB1R6gCTMUe0CPmb9Vu1wQ/sOaNjIYMhE64bzQ-JQAL8w",
+  "ParentRef": "eB1R6gCTMUe0CPmb9Vu1wQ/0v_LFJfNP02L75aPCiEyKQ",
+  "Created": "2025-04-07T12:19:23.4048157Z",
+  "Updated": "2025-04-07T12:19:23.4048157Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

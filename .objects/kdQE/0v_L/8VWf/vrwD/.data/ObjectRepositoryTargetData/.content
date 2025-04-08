@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="DlVJJgvhhEei1Nb0TsmRTw" Reference="eB1R6gCTMUe0CPmb9Vu1wQ/vrwDNXBp_0SLZwzI8hclJg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="fakenamegenerator.com/advanced.php" CVScreenId="9e6d2a4a-cfbc-4986-81c6-c7fb7d29aef7" DesignTimeRectangle="352, 514, 70, 23" DesignTimeScaleFactor="1" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='genbtn' tag='INPUT' type='submit' class='button red' aaname='Generate' check:text='Generate' /&gt;" Guid="d1bebe71-2e32-4dc3-b9fa-8b2ad414a62f" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Generate a Random Name - Fake Name Generator' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="4f9331508d42dd48338f27ec4ac2c6d3.png" xmlns="">0s5-g0UE7GkeVU191NBkcUQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

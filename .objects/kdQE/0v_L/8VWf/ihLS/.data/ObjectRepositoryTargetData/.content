@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Qve26C9uYk2auJUrhToeDQ" Reference="eB1R6gCTMUe0CPmb9Vu1wQ/ihLSTPDXdEuF44GSNDZK0w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="fakenamegenerator.com/advanced.php" DesignTimeRectangle="609, 355, 275, 211" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;webctrl class='cell' parentid='advanced-options' tag='DIV' /&gt;" Guid="a89badaa-7e64-4260-8bc8-592cbed5a8ed" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Generate a Random Name - Fake Name Generator' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="121ff492497a4d0c738f6718cc0aeb16.png" xmlns="">09h-FoE2qcEaDGZKcUmkfWg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

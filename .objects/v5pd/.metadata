@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Bez tytułu — Notatnik",
+  "Type": "App",
+  "Id": "v5pda4JFWUSQmX6j_7fL0w",
+  "Reference": "eB1R6gCTMUe0CPmb9Vu1wQ/v5pda4JFWUSQmX6j_7fL0w",
+  "Created": "2025-04-07T23:04:11.1779247Z",
+  "Updated": "2025-04-07T23:04:11.1779247Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

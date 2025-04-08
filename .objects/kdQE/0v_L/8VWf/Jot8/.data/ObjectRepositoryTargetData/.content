@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ZrawkQ69oEqcPodKdIn6bg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="fakenamegenerator.com/advanced.php" DesignTimeRectangle="697, 538, 355, 37" DesignTimeScaleFactor="1" FuzzySelectorArgument="&lt;webctrl type='' tag='DD' class='' aaname='KarenKRoberts@jourrapide.com            ' check:innerText='KarenKRoberts@jourrapide.com&amp;#xA;This is a real email address. Click here to activate it!' /&gt;" Guid="15e34e67-334c-4e9d-aa74-765ed0ca96bd" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Generate a Random Name - Fake Name Generator' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d21c985d-87f1-46a0-8308-656a91db9d69" DesignTimeRectangle="512, 511, 540, 17" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='hh3' type='' tag='H3' aaname='Online' check:innerText='ONLINE' /&gt;" Guid="7a1cc58e-3cf0-4c3b-9c44-68e32ddd2e0d" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="418de30719ee5dae2fcdba5e14ddd7bd.png" xmlns="">01diaACEcLEKvol4QGi3RVg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetAttributeGeneric</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

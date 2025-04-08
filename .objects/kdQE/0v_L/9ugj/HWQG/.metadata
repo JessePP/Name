@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Consent to all",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "HWQGedhLEEaz9Nt7voCPXA",
+  "Reference": "eB1R6gCTMUe0CPmb9Vu1wQ/HWQGedhLEEaz9Nt7voCPXA",
+  "ParentRef": "eB1R6gCTMUe0CPmb9Vu1wQ/9ugjUeooPUaBlMVGYDl4uA",
+  "Created": "2025-04-07T12:51:12.9211151Z",
+  "Updated": "2025-04-07T12:51:12.9211151Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

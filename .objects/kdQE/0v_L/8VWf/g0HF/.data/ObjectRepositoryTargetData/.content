@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="oOZuMDGTXUGHh_dTpmFyjA" Reference="eB1R6gCTMUe0CPmb9Vu1wQ/g0HFjKy21Ea8u7tT-KcHuQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="fakenamegenerator.com/advanced.php" CVScreenId="7425b4c0-5e44-42fc-b6ec-d9e8f1745e42" DesignTimeRectangle="512, 377, 540, 19" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='H3' parentclass='address' parentid='details' /&gt;" Guid="4d680054-48ff-4d5e-af70-22d95e3b9283" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Generate a Random Name - Fake Name Generator' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="df30b0245e621d640b2ba2f67dd1f833.png" xmlns="">0LYTKNS4Zl06GLx8p4rHcfQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

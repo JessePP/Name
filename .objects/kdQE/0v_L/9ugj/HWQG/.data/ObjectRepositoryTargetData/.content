@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="bnOHC7ww8EG3SYjRyJ-zaQ" Reference="eB1R6gCTMUe0CPmb9Vu1wQ/HWQGedhLEEaz9Nt7voCPXA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="fakenamegenerator.com" CVScreenId="4b71cd03-0a26-490c-9aca-02142afc4410" DesignTimeRectangle="776, 815, 370, 40" DesignTimeScaleFactor="1" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' class='stpd_submit_btn stpd_cta_btn' aaname=' Consent to all' check:innerText='CONSENT TO ALL' /&gt;" Guid="00d40033-1a99-4450-a963-26f4ace16a8b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Generate a Random Name - Fake Name Generator' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="434774d5804d63dd82401d13f91fc9de.png" xmlns="">0fDZvH1LtfUCalwzidXMNmg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Close Chrome",
+  "Type": "App",
+  "Id": "kdQESYHrZkKudB8bcpK53w",
+  "Reference": "eB1R6gCTMUe0CPmb9Vu1wQ/kdQESYHrZkKudB8bcpK53w",
+  "Created": "2025-04-07T12:19:23.3762527Z",
+  "Updated": "2025-04-07T12:19:23.3762527Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

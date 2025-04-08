@@ -1,0 +1,13 @@
+﻿{
+  "Name": "NewElement",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "EKKwWPYT3UaeP50Qgh-2gg",
+  "Reference": "eB1R6gCTMUe0CPmb9Vu1wQ/EKKwWPYT3UaeP50Qgh-2gg",
+  "ParentRef": "eB1R6gCTMUe0CPmb9Vu1wQ/qm9HTb62AUuIZbF-aHQaQA",
+  "Created": "2025-04-07T12:22:58.4906339Z",
+  "Updated": "2025-04-07T12:22:58.4906339Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
